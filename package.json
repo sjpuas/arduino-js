@@ -1,0 +1,14 @@
+{
+  "name": "arduino-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.0",
+    "firmata": "^0.5.5",
+    "socket.io": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Sergio Puas <sergio@puas.cl>",
+}
